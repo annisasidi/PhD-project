@@ -1,21 +1,21 @@
-# Politics of Identity Dissertation
-PhD project Otago
+# MarkDown Syntaxes
+Exercise on Syntaxes
 
-## Politics of Identity Dissertation
+## MarkDown Syntaxes
 Second header
 
-### Politics of Identity Dissertation
+### MarkDown Syntaxes
 
-#### Politics of Identity Dissertation
+#### MarkDown Syntaxes
 
-##### Politics of Identity Dissertation
+##### MarkDown Syntaxes
 
-###### Politics of Identity Dissertation
+###### MarkDown Syntaxes
 
-Politics of Identity Dissertation
+MarkDown Syntaxes
 =======
 
-Politics of Identity Dissertation
+MarkDown Syntaxes
 -----
 
 Markdown Syntax
