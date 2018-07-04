@@ -116,11 +116,12 @@ This is a link to [Google](https://www.google.com)
 
 ## Inserting image
 
-![image name](link to file name)
+![Arry](download.jpg)
 
 <img src="maxresdefault.jpg" width=100/>
 
 ![lol](https://www.google.co.nz/imgres?imgurl=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FBt2_ubIIUAAYIrg.jpg&imgrefurl=https%3A%2F%2Ftwitter.com%2Fpotterworlduk%2Fstatus%2F494762340374814720&docid=CO3YVdbRgY6G5M&tbnid=h_3fj8eHEwqN_M%3A&vet=10ahUKEwic8_azwobcAhVFwLwKHXuHCqQQMwg0KAIwAg..i&w=480&h=576&safe=off&bih=613&biw=1366&q=you%27re%20a%20wizard%20harry&ved=0ahUKEwic8_azwobcAhVFwLwKHXuHCqQQMwg0KAIwAg&iact=mrc&uact=8)
+
 ----------
 
 ## Codes and syntax highlighting
