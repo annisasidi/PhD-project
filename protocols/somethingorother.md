@@ -17,3 +17,9 @@ This is a markdown file describing something or other
 1. then that
 
 # Done
+
+## Results
+
+After you follow these instructions, you should get something like [this](/results):
+
+![](download.jpg)
