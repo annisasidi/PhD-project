@@ -22,4 +22,4 @@ This is a markdown file describing something or other
 
 After you follow these instructions, you should get something like [this](/results):
 
-![](download.jpg)
+![Arry](/download.jpg)
